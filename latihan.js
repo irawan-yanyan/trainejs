@@ -8,6 +8,7 @@ const notify = () => {
     console.log("download complete...");
 };
 
+console.log("test ini .. ");
 const download = (url,cb) =>{
     console.log(`urlnya dalah  ${url}`);
     cb();
