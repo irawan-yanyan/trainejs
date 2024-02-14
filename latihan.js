@@ -17,3 +17,5 @@ const download = (url,cb) =>{
 const url = "https://www.detik.com";
 
 download(url,notify);
+
+console.log("ini yan yan irawan");
